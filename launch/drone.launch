@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="offb" pkg="flight_pattern" type="flight_pattern_node" output="screen"/>
+</launch>
