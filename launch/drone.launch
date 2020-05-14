@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
 <launch>
-    <node name="offb" pkg="flight_pattern" type="flight_pattern_node" output="screen"/>
+    <node name="offb_1" pkg="flight_pattern" type="flight_pattern_node_1" output="screen"/>
+    <node name="offb_2" pkg="flight_pattern" type="flight_pattern_node_2" output="screen"/>
 </launch>
